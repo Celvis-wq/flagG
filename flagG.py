@@ -31,5 +31,8 @@ while low <= high:
             print("Unexpected response:", response.text)
     else:
         # output if the number is correct
-        print("Found the number:", mid)
+        print("The correct number was found:", mid)
+
+        # output the response from the site
+        print(response.text)
         break

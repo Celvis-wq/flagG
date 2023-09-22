@@ -1,5 +1,5 @@
 # flagG.py
-# Version: 0.0.2
+# Version: 0.0.3
 
 ## Purpose:
 
@@ -25,7 +25,7 @@
 
 ### Changelog:
 Changes:
-1. Fixed number guessing.
+1. Now outputs site response from guessing the correct number.
 
 TODO:
 1. Nothing at this current time.
