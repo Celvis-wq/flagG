@@ -1,5 +1,5 @@
 # flagG.py
-# Version: 0.0.1
+# Version: 0.0.2
 
 ## Purpose:
 
@@ -25,7 +25,7 @@
 
 ### Changelog:
 Changes:
-1. Nothing at this current time.
+1. Fixed number guessing.
 
 TODO:
 1. Nothing at this current time.

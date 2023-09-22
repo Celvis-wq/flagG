@@ -1,5 +1,6 @@
 # flagG.py
 # Celvis
+# This script will continue to try and guess the number until it gets it correct
 
 # Import
 import requests
@@ -26,10 +27,9 @@ while low <= high:
         elif "too high" in response.text.lower():
             high = mid - 1
         else:
-            # error handling
+            # Error handling
             print("Unexpected response:", response.text)
-            break
     else:
-        # output if the number was guessed correctly
+        # output if the number is correct
         print("Found the number:", mid)
         break
