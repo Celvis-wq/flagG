@@ -1,6 +1,6 @@
 # flagG.py
 # Celvis
-# This script will continue to try and guess the number until it gets it correct
+# This script will continue to try and guess the number until it gets it correct, from there the rest of flagG is up to you to figure out
 
 # Import
 import requests
